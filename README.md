@@ -1,12 +1,5 @@
 # Experiment 5: Neural Network Layers in CUDA
 
-**Author:** Vandana A M  
-**Branch:** CSE (Artificial Intelligence)  
-**Course:** Parallel and GPU Computing (PGC)  
-**Experiment:** 5 – Neural Network Layers in CUDA
-
----
-
 ## 1. Aim
 
 To implement basic neural-network layers using CUDA and compare their execution performance on the CPU and GPU.
@@ -185,5 +178,12 @@ The CPU and GPU results matched, with a maximum absolute output difference of 0.
 This experiment demonstrates how CUDA can use GPU parallel processing to accelerate neural-network computations for the tested workload.
 
 ---
+
+## Author
+
+**Name:** Vandana A M  
+**Branch:** CSE (Artificial Intelligence)  
+**Course:** Parallel and GPU Computing (PGC)  
+**Experiment:** 5 – Neural Network Layers in CUDA
 
 **Technologies:** CUDA, C++, NVIDIA GPU
